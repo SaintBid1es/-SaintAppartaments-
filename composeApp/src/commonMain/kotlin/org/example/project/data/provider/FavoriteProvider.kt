@@ -1,6 +1,6 @@
 package org.example.project.data.provider
 
-import org.example.project.data.model.Listing
+import org.example.project.domain.entity.Listing
 import saintappartaments.composeapp.generated.resources.Res
 import saintappartaments.composeapp.generated.resources.apartament22
 import saintappartaments.composeapp.generated.resources.apartaments3

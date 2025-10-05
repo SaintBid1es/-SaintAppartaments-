@@ -26,8 +26,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.navigator.LocalNavigator
-import org.example.project.ui.theme.BlueForCard
-import org.example.project.viewmodel.CreateAccountPartnerViewModel
+import org.example.project.presentation.ui.theme.BlueForCard
+import org.example.project.presentation.viewmodel.CreateAccountPartnerViewModel
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 

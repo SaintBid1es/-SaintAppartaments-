@@ -15,7 +15,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import cafe.adriel.voyager.core.screen.Screen
-import org.example.project.ui.theme.BlueForCard
+import org.example.project.presentation.ui.theme.BlueForCard
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 

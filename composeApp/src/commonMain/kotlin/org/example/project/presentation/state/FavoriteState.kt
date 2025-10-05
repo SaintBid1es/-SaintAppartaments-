@@ -1,6 +1,6 @@
 package org.example.project.presentation.state
 
-import org.example.project.data.model.Listing
+import org.example.project.domain.entity.Listing
 
 sealed class FavoriteState{
     object Loading: FavoriteState()

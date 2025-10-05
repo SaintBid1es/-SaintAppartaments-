@@ -33,9 +33,8 @@ import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.Navigator
 import cafe.adriel.voyager.navigator.currentOrThrow
-import org.example.project.data.model.User
-import org.example.project.viewmodel.RegisterViewModel
-import org.example.project.viewmodel.UpdateViewModel
+import org.example.project.domain.entity.User
+import org.example.project.presentation.viewmodel.UpdateViewModel
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 

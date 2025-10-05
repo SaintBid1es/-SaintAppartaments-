@@ -8,9 +8,6 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.grid.GridCells
-import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
-import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -22,12 +19,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import cafe.adriel.voyager.core.screen.Screen
-import org.example.project.data.model.Message
-import org.example.project.presentation.listitem.FavoriteListItem
+import org.example.project.domain.entity.Message
 import org.example.project.presentation.listitem.MessageListItem
-import org.example.project.presentation.state.FavoriteIntent
-import org.example.project.ui.theme.BlueForCard
-import org.example.project.viewmodel.ChatViewModel
+import org.example.project.presentation.ui.theme.BlueForCard
+import org.example.project.presentation.viewmodel.ChatViewModel
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 

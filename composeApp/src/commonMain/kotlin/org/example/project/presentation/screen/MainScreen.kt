@@ -29,8 +29,8 @@ import cafe.adriel.voyager.navigator.currentOrThrow
 import org.example.project.presentation.state.LoginIntent
 import org.example.project.presentation.state.LoginState
 
-import org.example.project.ui.theme.Purple
-import org.example.project.viewmodel.MainViewModel
+import org.example.project.presentation.ui.theme.Purple
+import org.example.project.presentation.viewmodel.MainViewModel
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 
